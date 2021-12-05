@@ -1,0 +1,40 @@
+body
+{
+	background-image: url(tech.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.col-md-8{
+	text-align: center;
+	margin-top: 50px;
+	box-shadow: 1px 2px 2px 1px gray;
+	padding: 20px;
+	background-color: rgba(0, 0, 100, 0.3);
+}
+
+
+.back
+{
+	display: inline-flex;
+	padding: 10px;
+}
+h2
+{
+	color: white;
+	text-shadow: 3px 1px 2px   purple;
+}
+.body
+{
+	font-size: 20px;
+}
+#p
+{
+	font-size: 20px;
+
+}
+ a
+{
+	
+	text-decoration: none;
+	color: white;
+}

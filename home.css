@@ -1,0 +1,96 @@
+
+nav{
+	background-color: steelblue;
+}
+.nav-link
+{
+	margin-left: 280px;
+}
+.dropdown-menu
+{
+	padding: 10px;
+	width: 200px;
+	background-color: steelblue;
+
+}
+.dropdown-menu li a
+{
+	
+	color: white;
+}
+
+#home
+{
+	color: white;
+}
+.combination
+{
+	display: inline-flex;	
+}
+#nav{
+
+    color: white;
+    background-color: turquoise;
+    height:100%;
+    padding: 2px;
+	line-height: 40px;
+	
+}
+.h4
+{
+	margin-top: 100px;
+}
+#nav a
+{
+	color: purple;
+	text-decoration: none;
+	font-size: 14px;
+}
+#nav a:hover
+{
+	color: white;
+}
+#nav a:visited
+{
+	color: blue;
+}
+
+.pic
+{
+	background-image: url('home.jpg');
+    background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	padding: 210px;
+	
+	
+}
+.jumbotron
+{
+    text-align: center;
+	margin-top: 40px;
+	color: pink;
+	font-weight: bolder;
+	box-shadow: 1px 1px 3px 5px steelblue;
+	background-color: rgba(20,10,30,0.5);
+	padding: 30px;
+	border-radius: .3rem;  
+
+}
+
+
+
+p
+{
+  	font-size: 18px;
+}
+.top
+{
+	margin-left: 400px;
+	font-size: 22px;
+	text-decoration: none;
+	color: magenta;
+}
+a{
+	text-decoration: none;
+}

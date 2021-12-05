@@ -1,0 +1,53 @@
+nav{
+	background-color: steelblue;
+}
+.nav-link
+{
+	margin-left: 280px;
+}
+.dropdown-menu
+{
+	padding: 10px;
+	width: 200px;
+	background-color: steelblue;
+
+}
+.dropdown-menu li a
+{
+	
+	color: white;
+	text-decoration: none;
+}
+b
+{
+	color: mediumpurple;
+}
+.gen
+{
+	font-size: 20px;
+	text-decoration: none;
+	color: magenta;
+}
+.bot
+{
+	margin-left: 50px;
+	color: steelblue;
+	font-size: 20px;
+	text-decoration: none;
+}
+.hist
+{
+	color: steelblue;
+	font-size: 20px;
+	text-decoration: none;
+}
+.rel li a
+{
+	text-decoration: none;
+}
+
+.body
+{
+	font-size: 20px;
+	padding: 20px;
+}

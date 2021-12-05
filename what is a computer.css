@@ -1,0 +1,44 @@
+nav{
+	background-color: steelblue;
+}
+.nav-link
+{
+	margin-left: 280px;
+}
+.dropdown-menu
+{
+	padding: 10px;
+	width: 200px;
+	background-color: steelblue;
+
+}
+.dropdown-menu li a
+{
+	
+	color: white;
+	text-decoration: none;
+}
+
+
+.bottom
+{
+	color: steelblue;
+	text-decoration: none;
+	font-size: 25px;
+}
+.top
+{
+	color: steelblue;
+	text-decoration: none;
+	font-size: 25px;
+}
+.related a
+{
+	text-decoration: none;
+}
+
+.body
+{
+	font-size: 20px;
+	padding: 20px;
+}
